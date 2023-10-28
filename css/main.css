@@ -1,0 +1,471 @@
+@font-face {
+    font-family: "menoegrotesque-italic";
+    src: url("../font/menoegrotesque-italic.ttf") format("truetype");
+    font-style: italic;
+    font-weight: italic;
+  }
+  
+@font-face {
+      font-family: "menoegrotesque-regular";
+      src: url("../font/menoegrotesque-regular.ttf") format("truetype");
+      font-style: normal;
+      font-weight: normal;
+    }
+
+/* .gi{
+        font-family: "menoegrotesque-regular";
+        font-style: normal;
+        font-size: 218px;
+ } */
+
+      body{
+        background: #F493E0;
+        width: 1440px;
+        height: 15890px;
+        margin-left: 50%;
+        margin-right: 50%;
+      }
+
+.TitleTEXT{
+    width: 100%;
+    padding-left: 100px;
+    margin-top: 330px;
+     margin-top:-750px;
+
+}
+
+.TitleText{
+    font-family: "menoegrotesque-regular";
+    font-style: normal;
+    font-size: 218px;
+}
+
+.titleAll1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: -1140px;
+    padding-left: 14px;
+}
+
+.obuchenielegko{
+    display: flex;
+    justify-content: end;
+    margin-right: 40%;
+    color: #F493E0;
+    font-family: "Menoe Grotesque";
+    font-style: normal;
+    font-size: 73px;
+    margin-top: -35%;
+    padding-left: 90px;
+    }
+
+.puzzle2{
+    margin-top: 1050px;
+}
+
+.Backroundtitle{
+    margin-top: -1460px;
+}
+
+
+
+
+.titleAll2{
+    display: flex;
+    justify-content: start;
+    width: 100%;
+    margin-top: -550px;
+    /* padding-left: 14px; */
+}
+
+.title4{
+    padding-left:45px;
+    margin-top: -23px;
+    
+}
+
+.igrinacmekalku{
+    display: flex;
+    justify-content: center;
+    margin-right: 40%;
+    color: #000000;
+    font-family: "Menoe Grotesque";
+    font-style: normal;
+    font-size: 73px;
+    margin-top: -25%;
+    padding-left: 200px;
+}
+
+.title3{
+    padding-right: 90px;
+    margin-top: 30px;
+}
+
+.Descripriongroup1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 731px;
+}
+
+.descriprion2{
+    margin-top: 55px;
+}
+
+.Descripriongroup2{
+    margin-top: -620px;
+}
+
+.descriprion3{
+    margin-top: 50px;
+}
+
+.descriprion4{
+    padding-left: 420px;
+    margin-top: 55px;
+}
+.Oshrifte{
+    color: #FFF;
+
+    font-family: "Menoe Grotesque";
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    margin-top: -125px;
+}
+
+.Descripriongroup3{
+    padding-left: 750px;
+    margin-top: -270px;
+}
+
+.DescText1{
+    color: #000;
+    font-family: "Menoe Grotesque";
+    font-size: 96px;
+    font-style: normal;
+    margin-top: -1124px;
+    padding-left: 200px;
+}
+
+.DescriprionBackround1{
+    padding-left: 1212px;
+    margin-top: 632px ;
+}
+
+.DescImg1{
+    padding-left: 200px;
+    margin-top: 140px;
+}
+
+.DescImg2{
+    margin-top: -2474px;
+}
+
+.DescriprionBackround2{
+    margin-top: 2210px;
+}
+
+.ContinentalText{
+    color: #000;
+    font-family: "Menoe Grotesque";
+    font-size: 96px;
+    font-style: normal;
+    margin-top: -2450px;
+    width: 665px;
+    height: 394px;
+    padding-left: 380px;
+}
+
+.Numbers{
+    flex-direction: column;
+    align-items: start;
+    margin-top: -1250px;
+}
+
+.Two{
+margin-top: 270px;
+}
+
+.Three{
+    margin-top: 270px;
+    }
+
+.Infopart1{
+    /* padding-left: 30px; */
+    margin-top: 2340px;
+}
+
+.InfoText1{
+    color: #000;
+    font-family: "Menoe Grotesque";
+    font-size: 50px;
+    font-style: normal;
+    width: 286px;
+    height: 90px;
+    padding-left: 540px;
+    margin-top: -690px;
+}
+
+.InfoText2{
+    color: #000;
+    font-family: "Menoe Grotesque";
+    font-size: 70px;
+    font-style: normal;
+    margin-top: 490px;
+    padding-left: 30px;
+}
+
+.Infopart2{
+    padding-left: 200px;
+    margin-top: -570px;
+}
+
+.InfoText3{
+    color: #000;
+    font-family: "Menoe Grotesque";
+    font-size: 96px;
+    font-style: normal;
+    width: 520px;
+    height: 135px;
+    margin-top: -400px;
+    padding-left: 50px;
+}
+
+.Zagolovkiitext{
+    margin-top: 520px;
+}
+
+.Zagolovkiinabotniytext{
+width: 650px;
+height: 152px;
+color: #FFF;
+font-family: "Menoe Grotesque";
+font-size: 72px;
+font-style: normal;
+hyphens: manual;
+padding-left: 264px;
+margin-top: -170px;
+}
+
+.imgBOOK1{
+    padding-left: 930px;
+    margin-top: 1073px;
+}
+
+.imgBOOK3{
+    margin-top: -1380px;
+    padding-left: 215px;
+}
+.imgBOOK4{
+    margin-top: -650px;
+    padding-left: 26px;
+}
+.imgBOOK5{
+    margin-top: -485px;
+    padding-left: 545px;
+}
+.imgBOOK2{
+    margin-top: -50px;
+}
+
+.backroundS1{
+    margin-top: 2100px;
+}
+
+.backroundS2{
+    margin-top: -1870px;
+}
+
+.backroundS3{
+    margin-top: -1000px;
+}
+
+.backroundS4{
+    margin-top: -60px;
+}
+
+.Symbol1{
+    margin-top: -1620px;
+    justify-content: flex-start;
+}
+
+.SymbolText1{
+    color: #FFF;
+    font-family: "Menoe Grotesque";
+    font-size: 72px;
+    font-style: normal;
+    width: 836px;
+    height: 118px;
+    margin-top: -175px;
+    padding-left: 264px;
+}
+
+.Symbol2{
+    margin-top: 160px;
+    padding-left: 55PX;
+}
+
+.Nachertania1{
+    margin-top: 790px;
+    padding-left: 1224px;
+}
+.Nachertania2{
+    margin-top: -600px;
+}
+
+.NachertaniaZagolovok{
+color: #FFF;
+font-family: "Menoe Grotesque";
+font-size: 72px;
+font-style: normal;
+padding-left: 264px;
+margin-top: -129px;
+}
+
+.Nachertania3{
+    margin-top: 150px;
+    padding-left: 41px;
+}
+
+.Nachertania4{
+    margin-top: 91px;
+    padding-left: 139px;
+}
+
+.NachertaniaText1{
+color: #F493E0;
+font-family: "Menoe Grotesque";
+font-size: 72px;
+font-style: normal;
+margin-top: -805px;
+padding-left: 60px;
+}
+
+.NachertaniaText2{
+color: #F493E0;
+font-family: "Menoe Grotesque";
+font-size: 72px;
+font-style: normal;
+padding-left:480px;
+margin-top: 580px;
+}
+
+.Featuresback1{
+    margin-top: 410px;
+}
+
+.Featuresback2{
+    margin-top: -400px;
+}
+
+.FeaturesbackText{
+color: #FFF;
+font-family: "Menoe Grotesque";
+font-size: 72px;
+font-style: normal;
+text-align: center;
+margin-top: -129px;
+}
+
+.Featuresback3{
+    margin-top: 1109px;
+}
+
+.FEATUREMAIN1{
+    align-items: center;
+    margin-top: -1150px;
+    padding-left: 90px;
+}
+
+.FeaturesMainText1{
+color: #000;
+font-family: "Menoe Grotesque";
+font-size: 70px;
+font-style: normal;
+width: 686px;
+height: 130px;
+margin-top: -1040px;
+padding-left: 140px;
+}
+
+.FeaturesMainText2{
+color: #F493E0;
+font-family: "Menoe Grotesque";
+font-size: 70px;
+font-style: normal;
+margin-top: 120px;
+padding-left: 500px;
+}
+
+.FeaturesMainText3{
+color: #000;
+font-family: "Menoe Grotesque";
+font-size: 70px;
+font-style: normal;
+margin-top: 457px ;
+padding-left: 585px;
+}
+
+.HugeBackround{
+    margin-top: 350px ;
+}
+.Huge1{
+    padding-left: 121px;
+    margin-top: -890px;
+}
+.Huge2{
+    padding-left: 1176px;
+}
+.Logo{
+    padding-left: 1005px;
+    margin-top: -250px ;
+}
+.TextEnd1{
+    color: #000;
+
+font-family: "Menoe Grotesque";
+font-size: 72px;
+font-style: normal;
+margin-top: -900px;
+text-align: center;
+}
+.TEXTIC{
+    flex-direction: row;
+    font-family: "Menoe Grotesque";
+font-size: 48px;
+font-style: italic;
+justify-content: space-around;
+text-align: left;
+}
+.TextEnd2{
+    padding-left: 350px;
+    margin-top: 32px;
+}
+.TextEnd3{
+    padding-left: 350px;
+    margin-top: 45px;
+}
+.TextEnd4{
+    padding-left: 350px;
+    margin-top: 37px;
+}
+.name{
+color: #FFF;
+font-family: Menoe Grotesque;
+font-size: 48px;
+font-style: normal;
+text-align: start;
+margin-top: 360px;
+padding-left: 64px;
+}
+.name2{
+    margin-top: 20px;
+}
+.name3{
+    margin-top: 20px;
+}
+
